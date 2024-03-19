@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">Hi! I like coding pretty-looking websites. [about me in progress]<br>
+<p align="center">Hi! I like coding pretty-looking websites.<br><br>
+🎯 Current goals:<br>
+• Master React (and optionally Vue)<br>
+• Learn web accessibility concepts more in depth<br>
+• Learn SEO basics<br>
+• Learn more backend technologies in JS<br>
+• Get into UX/UI design<br>
+• Learn module bundlers such as Webpack<br><br>
+• Get a job so I can get some actual experience and acquire more frontend skills 🤠<br>
+  If you're here and looking for someone to collaborate on a website project, why not hit me up!
 </p>
 
 ###
