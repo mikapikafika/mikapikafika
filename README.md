@@ -82,14 +82,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/xwa6devbsnxkgczkxiq7p5la8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xwa6devbsnxkgczkxiq7p5la8&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikapikafika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
