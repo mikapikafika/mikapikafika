@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 • Learn more backend technologies in JS<br>
 • Get into UX/UI design<br>
 • Learn module bundlers such as Webpack<br><br>
-• Get a job so I can get some actual experience and acquire more frontend skills 🤠<br>
+<b>Most importantly: get a job so I can get some actual experience and acquire more frontend skills 🤠</b><br>
   If you're here and looking for someone to collaborate on a website project, why not hit me up!
 </p>
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://camo.githubusercontent.com/33c94c6bb329feece782cd1ff947bca9552fac6c0140920b4afe657dbefca032/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61382f4e6573744a532e7376672f36323170782d4e6573744a532e7376672e706e673f3230323231323131323235303535" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
